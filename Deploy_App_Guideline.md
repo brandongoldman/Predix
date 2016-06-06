@@ -1,5 +1,4 @@
 #How To: Deploy an App on Predix
-Author: Brandon Goldman (ITLP)
 
 ----
 
