@@ -93,7 +93,3 @@ buildpack: predix_openresty_buildpack
 ```git clone https://www.github.com/YOUR-REPO-NAME-HERE```
 3. Add the ```manifest.yml``` file to the folder that was created on your local machine.
 4. Repeat the above steps to push the app to Predix.
-
------
-
-Questions? Contact Brandon Goldman at brandon.goldman [at] ge.com
