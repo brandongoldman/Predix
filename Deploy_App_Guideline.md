@@ -1,5 +1,5 @@
 #How To: Deploy an App on Predix
-
+Written by: Brandon Goldman (ITLP Intern)
 ----
 
 ####Objective:
@@ -93,3 +93,11 @@ buildpack: predix_openresty_buildpack
 ```git clone https://www.github.com/YOUR-REPO-NAME-HERE```
 3. Add the ```manifest.yml``` file to the folder that was created on your local machine.
 4. Repeat the above steps to push the app to Predix.
+
+-------
+
+References:
++ [Hello World : A simple HTML page](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1475&tag=1719&journey=Hello%20World&resources=1475,1569,1523)
++ [DevBox Tutorial](https://www.predix.io/services/other-resources/devbox.html)
++ [Experience Predix, Use Predix](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1630)
++ [Developer Resources](https://www.predix.io/resources/tutorials)
