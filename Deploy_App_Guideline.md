@@ -1,5 +1,5 @@
 #How To: Deploy an App on Predix
-Written by: Brandon Goldman (ITLP Intern)
+######Written by: Brandon Goldman (ITLP Intern)
 ----
 
 ####Objective:
