@@ -21,7 +21,8 @@ It is also recommended you have a basic understanding of how a Linux terminal wo
 3. Inside VMWare, click "Create a New Virtual Machine".
 4. Click "Installer disc image file (iso):" and browse to your desktop for the DevBox file.
 5. Follow the on-screen instructions until your virtual machine is finished installing.
-6. Launch Predix Devbox.
+6. If you receive an error, you can simplify the process by double-clicking the DevBox file you placed on your desktop.
+7. Launch Predix Devbox.
 
 ####Creating YML File
 7. Open gedit in Devbox (Applications > Accessories > gedit Text Editor).
