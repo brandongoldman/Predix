@@ -27,7 +27,8 @@ It is also recommended you have a basic understanding of how a Linux terminal wo
 ####Creating YML File
 7. Open gedit in Devbox (Applications > Accessories > gedit Text Editor).
 8. Paste the following text:
-```applications:
+```
+applications:
   - name: APP_NAME_GOES_HERE
     buildpack: staticfile_buildpack 
     #path: dist
