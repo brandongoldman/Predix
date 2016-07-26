@@ -1,3 +1,4 @@
+applications:
   - name: BG_Website
     buildpack: staticfile_buildpack 
     #path: dist
